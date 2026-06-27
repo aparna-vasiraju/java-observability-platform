@@ -1,4 +1,4 @@
-# Java Observability Platform on Kubernetes
+# Java Observability Platform on Kubernetes 
 A hands-on cloud-native project demonstrating end-to-end 
 observability for a Java application running on Kubernetes — built with 
 Terraform, Prometheus, Grafana, and Dynatrace.
