@@ -1,6 +1,5 @@
 # Java Observability Platform on Kubernetes
-
-A hands-on cloud-native SRE portfolio project demonstrating end-to-end 
+A hands-on cloud-native SRE project demonstrating end-to-end 
 observability for a Java application running on Kubernetes — built with 
 Terraform, Prometheus, Grafana, and Dynatrace.
 
@@ -9,8 +8,8 @@ Terraform, Prometheus, Grafana, and Dynatrace.
 ## Project Purpose
 
 Built to bridge performance engineering expertise with modern cloud-native 
-SRE tooling — specifically targeting skills required in Senior SRE, 
-Observability Engineer, and Platform Engineer roles.
+tooling — specifically targeting skills required in  
+Performance Engineering and Observability Engineer roles.
 
 ---
 
